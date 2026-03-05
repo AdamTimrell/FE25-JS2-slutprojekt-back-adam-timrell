@@ -1,0 +1,86 @@
+{
+  "members": [
+    {
+      "id": "m1",
+      "name": "Adam",
+      "category": "ux"
+    },
+    {
+      "id": "m2",
+      "name": "Ella",
+      "category": "dev frontend"
+    },
+    {
+      "id": "m3",
+      "name": "Maja",
+      "category": "dev backend"
+    },
+    {
+      "id": "6ce15047-b2f3-4ff4-b86a-97da539cd82f",
+      "name": "Test User",
+      "category": "ux"
+    },
+    {
+      "id": "dc21e5e7-4b24-4b73-aa4e-135d70dec4a0",
+      "name": "Kalle",
+      "category": "dev frontend"
+    },
+    {
+      "id": "51d7855a-84ac-457f-a890-879eaa99c8b0",
+      "name": "Kalle",
+      "category": "ux"
+    },
+    {
+      "id": "f1e46889-58c1-4c7b-862a-a19cf1855caf",
+      "name": "Kalle",
+      "category": "ux"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "a3",
+      "title": "Create that thing",
+      "description": "Design that thing",
+      "category": "dev frontend",
+      "status": "new",
+      "assignedTo": null,
+      "timestamp": "2026-03-02T10:00:00.000Z"
+    },
+    {
+      "id": "a4",
+      "title": "Create stuff",
+      "description": "Design that stuff",
+      "category": "dev frontend",
+      "status": "new",
+      "assignedTo": null,
+      "timestamp": "2026-03-02T10:00:00.000Z"
+    },
+    {
+      "id": "a5",
+      "title": "create new stuff",
+      "description": "Design that new stuff",
+      "category": "dev backend",
+      "status": "new",
+      "assignedTo": null,
+      "timestamp": "2026-03-02T10:00:00.000Z"
+    },
+    {
+      "id": "a6",
+      "title": "add to new stuff",
+      "description": "that new stuff needs stuff",
+      "category": "dev backend",
+      "status": "new",
+      "assignedTo": null,
+      "timestamp": "2026-03-02T10:00:00.000Z"
+    },
+    {
+      "id": "47b7c30e-a564-4847-be82-1e3cead71817",
+      "title": "Test assignment",
+      "description": "Testing create endpoint",
+      "category": "ux",
+      "status": "new",
+      "assignedTo": null,
+      "timestamp": "2026-03-03T13:15:50.653Z"
+    }
+  ]
+}
