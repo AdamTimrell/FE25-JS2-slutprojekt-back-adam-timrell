@@ -16,71 +16,65 @@
       "category": "dev backend"
     },
     {
-      "id": "6ce15047-b2f3-4ff4-b86a-97da539cd82f",
-      "name": "Test User",
-      "category": "ux"
-    },
-    {
-      "id": "dc21e5e7-4b24-4b73-aa4e-135d70dec4a0",
-      "name": "Kalle",
-      "category": "dev frontend"
-    },
-    {
-      "id": "51d7855a-84ac-457f-a890-879eaa99c8b0",
-      "name": "Kalle",
-      "category": "ux"
-    },
-    {
-      "id": "f1e46889-58c1-4c7b-862a-a19cf1855caf",
-      "name": "Kalle",
+      "id": "d68fb082-e86c-4fc8-ba8f-e141176ec6fc",
+      "name": "Freja",
       "category": "ux"
     }
   ],
   "assignments": [
     {
-      "id": "a3",
-      "title": "Create that thing",
-      "description": "Design that thing",
-      "category": "dev frontend",
-      "status": "new",
-      "assignedTo": null,
-      "timestamp": "2026-03-02T10:00:00.000Z"
+      "id": "926f5ea7-0994-4039-ad6d-eec7469e579a",
+      "title": "Se The Matrix",
+      "description": "se filmen",
+      "category": "ux",
+      "status": "done",
+      "assignedTo": "m1",
+      "timestamp": "2026-03-05T17:39:56.926Z"
     },
     {
-      "id": "a4",
-      "title": "Create stuff",
-      "description": "Design that stuff",
-      "category": "dev frontend",
-      "status": "new",
-      "assignedTo": null,
-      "timestamp": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "id": "a5",
-      "title": "create new stuff",
-      "description": "Design that new stuff",
-      "category": "dev backend",
-      "status": "new",
-      "assignedTo": null,
-      "timestamp": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "id": "a6",
-      "title": "add to new stuff",
-      "description": "that new stuff needs stuff",
-      "category": "dev backend",
-      "status": "new",
-      "assignedTo": null,
-      "timestamp": "2026-03-02T10:00:00.000Z"
-    },
-    {
-      "id": "47b7c30e-a564-4847-be82-1e3cead71817",
-      "title": "Test assignment",
-      "description": "Testing create endpoint",
+      "id": "2c03f63d-b37d-49e4-84f2-eef58360a6b8",
+      "title": "Håll presentation",
+      "description": "Håll i presentationen",
       "category": "ux",
       "status": "new",
       "assignedTo": null,
-      "timestamp": "2026-03-03T13:15:50.653Z"
+      "timestamp": "2026-03-05T17:40:30.447Z"
+    },
+    {
+      "id": "51312814-6091-4bf6-9e1e-818e40a0e2ef",
+      "title": "Fyll 5år",
+      "description": "Fyll hela 5 år!",
+      "category": "dev frontend",
+      "status": "done",
+      "assignedTo": "m2",
+      "timestamp": "2026-03-05T17:40:55.541Z"
+    },
+    {
+      "id": "2e2e11b7-1a2e-4063-9683-4e6cfb50f6c4",
+      "title": "Fyll 2 år!",
+      "description": "Fyll hela 2 år! \ndeadline 2026-12-31",
+      "category": "dev backend",
+      "status": "new",
+      "assignedTo": null,
+      "timestamp": "2026-03-05T17:41:35.779Z"
+    },
+    {
+      "id": "0df53194-aad1-4377-9197-f3c6db99d49d",
+      "title": "Handla Mat",
+      "description": "Handla mat i en affär",
+      "category": "ux",
+      "status": "new",
+      "assignedTo": null,
+      "timestamp": "2026-03-05T17:43:39.510Z"
+    },
+    {
+      "id": "875fc62a-610b-4bd2-bfe4-277c9fc1a73a",
+      "title": "Tvätta mörk tvätt",
+      "description": "Tvätta all mörk tvätt",
+      "category": "ux",
+      "status": "new",
+      "assignedTo": null,
+      "timestamp": "2026-03-05T17:44:12.336Z"
     }
   ]
 }
